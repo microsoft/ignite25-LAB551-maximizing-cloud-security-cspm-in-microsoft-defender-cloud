@@ -164,7 +164,7 @@ In this task, you will create a data collection rule.
     |Platform Type|**Windows**|
     |Data Collection Endpoint|*Leave Blank*|
 
-    ![Screen capture of the Create Data Collection Rule basics tab.](../media/crete-a-data-collection-rule-basics-tab.png)
+    ![Screen capture of the Create Data Collection Rule basics tab.](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/media/crete-a-data-collection-rule-basics-tab.png)
 
 
 5. Click on the button labeled **Next: Resources >** to proceed.
@@ -187,7 +187,7 @@ In this task, you will create a data collection rule.
     |Disk|60|
     |Network|60|
 
-   ![Screen capture of the Collect and Deliver tab of the Data Collection Rule.](../media/crete-a-data-collection-rule-collectanddeliver-tab.png)
+   ![Screen capture of the Collect and Deliver tab of the Data Collection Rule.](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/media/crete-a-data-collection-rule-collectanddeliver-tab.png)
 
 11. Click on the button labeled **Next: Destination >** to proceed.
   
@@ -195,11 +195,11 @@ In this task, you will create a data collection rule.
 
 13. Click on **Add data source** at the bottom of the page.
     
-    ![Screen capture of the Add a Data Source page on the Data Collction Rule page.](../media/crete-a-data-collection-rule-add-datasource.png)
+    ![Screen capture of the Add a Data Source page on the Data Collction Rule page.](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/media/crete-a-data-collection-rule-add-datasource.png)
 
 14. Click **Review + create.**
 
-    ![Screen capture of the Review + Create tab of the Data Collection Rule wizard.](../media/crete-a-data-collection-rule-reviewcreate-tab.png)
+    ![Screen capture of the Review + Create tab of the Data Collection Rule wizard.](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/media/crete-a-data-collection-rule-reviewcreate-tab.png)
 
 15. Click **Create.**
 
